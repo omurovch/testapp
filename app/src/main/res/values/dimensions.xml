@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="post_item_vertical_margin">8dp</dimen>
+    <dimen name="post_item_start_margin">10dp</dimen>
+    <dimen name="refresher_offset_start">0dp</dimen>
+    <dimen name="refresher_offset_end">60dp</dimen>
+</resources>
